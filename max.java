@@ -20,7 +20,7 @@ public static void main(String[] args) {
   }
 }
 
-
+// this is a node class
 class Node {
     int val ; 
     Node left ; 
